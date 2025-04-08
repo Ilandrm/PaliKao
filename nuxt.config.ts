@@ -17,7 +17,7 @@ export default defineNuxtConfig({
         },
       ],
     },
-    baseURL: '/PaliKao/',
+    baseURL: '/',
   },
   nitro: {
     prerender: {
